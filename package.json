@@ -19,11 +19,15 @@
     "react-toastify": "^9.0.8"
   },
   "devDependencies": {
+    "autoprefixer": "^10.4.4",
+    "postcss": "^8.4.12",
+    "tailwindcss": "^3.1.8",
     "@babel/core": "^7.19.3",
     "@babel/eslint-parser": "^7.19.1",
     "babel-eslint": "^10.1.0",
     "eslint": "^8.25.0",
     "eslint-config-next": "12.3.1",
     "eslint-plugin-prettier": "^4.2.1"
+    
   }
 }
